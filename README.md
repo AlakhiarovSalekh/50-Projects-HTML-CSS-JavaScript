@@ -1,4 +1,4 @@
-# 50 Projects — HTML, CSS & JavaScript
+# 50 Frontend Projects — HTML, CSS & JavaScript
 
 [![HTML5](https://img.shields.io/badge/HTML5-Projects-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Projects-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
