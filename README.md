@@ -86,6 +86,8 @@ Most examples are plain HTML/CSS/JavaScript and can be opened directly in a brow
 
 Small fixes, accessibility improvements, documentation corrections, and focused enhancements are welcome through pull requests.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Calculator App](https://github.com/AlakhiarovSalekh/Calculator-App) — cross-platform React/React Native calculator.
