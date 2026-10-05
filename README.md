@@ -86,6 +86,12 @@ Most examples are plain HTML/CSS/JavaScript and can be opened directly in a brow
 
 Small fixes, accessibility improvements, documentation corrections, and focused enhancements are welcome through pull requests.
 
+## More Projects by Salekh
+
+- [Calculator App](https://github.com/AlakhiarovSalekh/Calculator-App) — cross-platform React/React Native calculator.
+- [UPos Web](https://github.com/AlakhiarovSalekh/UPos-Web) — Astro/TypeScript commerce and marketing website.
+- [SalekhPos](https://github.com/AlakhiarovSalekh/SalekhPos) — security-focused retail/POS platform under active development.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
